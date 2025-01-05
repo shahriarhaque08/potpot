@@ -1,0 +1,9 @@
+body{
+    background-image: url(bg\ w.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h3{
+    place-content: ;
+}
